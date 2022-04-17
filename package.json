@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "fuzz": "node spec/manual-fuzz.js"
   },
   "keywords": [],
   "author": "",
