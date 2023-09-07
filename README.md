@@ -27,3 +27,7 @@ Untuk menjalankan unit tests secara lengkap, yang juga mencakup fuzzing (lihat `
 ```
 npm test
 ```
+
+## Tautan terkait
+
+* [OSS-Fuzz](https://github.com/google/oss-fuzz) continuous fuzzing for open source software
